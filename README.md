@@ -26,3 +26,21 @@ The following is recommendation of the steps that should be employed towards att
 
 **Model Deployment:** Model deployment is the process of making a trained machine learning model available for use in a production environment.
 
+##### Exploratory Data Analysis(EDA) visualizations for the data are as below
+![output_10_0](https://github.com/user-attachments/assets/aa66dc3e-46ba-4532-9b00-7decfcd3bc84)
+
+##### Success Metrics
+
+###### Below are the metrics for the successful submission of this case study.
+
+*The accuracy of the model on the test data set should be > 75%(Subjective in nature)
+
+*Add methods for Hyperparameter tuning.
+
+*Perform model validation.
+
+###### From the source code Model selection and Hyperparameter tuning metrics we can see that the success metrics of the accuracy of the model on the test data set is > 75%. So the data met the above success metrics.
+
+###### For Model Validation the confusion matrix gives a clear understanding of how many predictions were correct and incorrect. For the data given it as shown below.
+
+![output_26_0](https://github.com/user-attachments/assets/1a374ad0-d032-4d65-ba2e-a6d9e2720c6f)
